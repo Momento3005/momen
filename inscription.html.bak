@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>Education</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="header_wrapper">
+      <div id="header">
+        <div id="site_title">
+          <h1><a href="#"> <img src="images/logo1.png" alt="" /> <span>les
+                élèves de Zarzis</span> </a></h1>
+        </div>
+      </div>
+      <!-- end of header --> </div>
+    <!-- end of menu_wrapper --><input name="nom" id="nom" type="text" />
+    <div id="menu_wrapper">
+      <div id="menu">
+        <ul>
+          <li><a href="#">Accueil</a></li>
+          <li><a href="#" class="current">A propos du lycée</a></li>
+          <li><a href="#">Prog du 3 eme STI</a></li>
+          <li><a href="#">Gallery</a></li>
+          <li><a href="#">Les éleves</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <!-- end of menu --> </div>
+    <div id="content_wrapper">
+      <!-- end of sidebar -->
+      <div class="content_box22">
+        <div class="cleaner_h20"></div>
+        <div class="image_fl">
+          <table width="893" border="1">
+            <tbody>
+              <tr>
+                <td width="215"> </td>
+                <td width="328"> </td>
+                <td width="328"> </td>
+              </tr>
+              <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> </td>
+                <td>ggg</td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div> </div>
+      <div id="sidebar22">
+        <div class="sidebar_box22">
+          <h2>image</h2>
+          <br />
+        </div>
+        <div class="sidebar_box_bottom22"></div>
+        <div class="sidebar_box22">
+          <h2>............</h2>
+          <div class="cleaner"></div>
+        </div>
+        <div class="sidebar_box_bottom22"></div>
+      </div>
+      <div id="content">
+        <div class="content_box33">
+       <h2>inscription</h2>
+                        <table style="width: 325px; height: 236px;">
+                          <tbody>
+                            <tr>
+                              
+                              <td>nom:</td>
+                              <td><input name="nom" id="nom" type="text" /><br />
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>prenon</td>
+                              <td><input prenon="nom" id="prenon" type="text" /></td>
+                            </tr>
+                            <tr>
+                              <td>telephone</td>
+                              <td><input name="tel" id="tel" type="" /></td>
+                            </tr>
+                            <tr>
+                              <td>genre</td>
+                              <td><input name="genre" id="genre" value="femenin"
+
+                                  type="radio" /> feminin <input name="genre" id="genre"
+
+                                  value="masculin" type="radio" /> masculin </td>
+                            </tr>
+                            <tr>
+                              <td> date de naissance</td>
+                              <td><input name="dt" id="dt" type="date" /></td>
+                            </tr>
+                            <tr>
+                              <td>lycee</td>
+                              <td><input list="lyceechoice" id="lycee" name="lycee" />
+                                <datalist id="lyceechoice">
+                                  <option value="2 mars"> </option>
+                                  <option value="technique"> </option>
+                                </datalist> </td>
+                            </tr>
+                            <tr>
+                              <td>email</td>
+                              <td><input name="email" id="email" type="email" /></td>
+                            </tr>
+                            <tr>
+                              <td>mot de passe</td>
+                              <td><input name="password" id="password" type="password" /></td>
+                            </tr>
+                            <tr>
+                              <td><input name="reset" value="annuler" type="reset" /></td>
+              <td><input name="submit" value="s'inscrire" type="submit" /></td>
+            </tr>
+      <!-- end of content -->
+      <div class="cleaner"></div>
+    </div>
+    <div id="footer_wrapper">
+      <div id="footer">
+        <ul class="footer_menu">
+          <li><a href="#">Accueil</a></li>
+          <li><a href="#">A propos du lycée</a></li>
+          <li><a href="#">Prog du 3 eme STI</a></li>
+          <li><a href="#">Gallery</a></li>
+          <li><a href="#">Les éleves</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+        Copyright © 2022 <a href="#">Lycée 2 Mars 1934 Zarzis</a> | Conçu par
+        Votre nom et prénom</div>
+    </div>
+  </body>
+</html>

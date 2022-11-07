@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>Education</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="header_wrapper">
+      <div id="header">
+        <div id="site_title">
+          <h1><a href="#"> <img src="images/logo1.png" alt="" /> <span>les eleve de Zarzis</span> </a></h1>
+        </div>
+        <p><br />
+        </p>
+      </div>
+      <!-- end of header -->
+    </div>
+    <!-- end of menu_wrapper -->
+    <div id="menu_wrapper">
+      <div id="menu">
+        <ul>
+
+      <li><a href="" class="current">accueil</a></li>
+
+      <li><a href="momento.html">a propos du lycee </a></li>
+
+      <li><a href="#">prog du 3 eme SII</a></li>
+
+      <li><a href="#">Gallery</a></li>
+
+      <li><a href="#">les eleves </a></li>
+
+      <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <!-- end of menu -->
+    </div>
+    <div id="content_wrapper">
+      <div id="sidebar">
+
+    <div class="sidebar_box">
+      <h2>login</h2>
+	  <table>
+	  <tr> <td><input type="texte" name="" placeholder="Email"></td></tr>
+	  <tr>
+          <td height="2"></td>
+        </tr>
+	  <tr>
+          <td height="24">
+            <input type="password" placeholder="password"></td></tr>
+			<tr><td></td></tr>
+			<tr><td align="right"><input type ="submit" value="connecter"></td></tr></table>
+      <div class="news_box"></div>
+      <div class="news_box"><span>je suis nouveau membre</span></div>
+        </div>
+        <div class="sidebar_box_bottom"></div>
+        <div class="sidebar_box">
+
+      <h2>Annonces</h2>
+          <li>01. Reprise des cours avec le professeur de mathématiques </li>
+          <li>02. Reprise des cours avec le professeur de l'arabe </li>
+          <li>03. Reprise des cours avec le professeur de lettre </li>
+          <li>04.  Reprise des cours avec le professeur de francais </li>
+
+      <div class="cleaner"></div>
+    </div>
+    <div class="sidebar_box_bottom"></div>
+  </div>
+  <!-- end of sidebar -->
+  <div id="content">
+    <div class="content_box">
+      <h2>Notre lycee</h2>
+      <p> L'Institut du 2 mars est l'un des plus anciens et des meilleurs instituts de Tunisie, qui se distingue par sa sympathie dans l'étude et l'enseignement.</p>
+      <div class="cleaner_h20"></div>
+      <div class="image_fl"> <img src="images/lycee.jpg" alt="" /></div>
+      <div class="section_w250 float_r">
+        <ul class="list_01">
+		  <h1>les directeurs du lycee.</h1>
+                <li>Makram Kriden</li>
+          <li>Hedi Lahmidi </li>
+          <li>Nabil Msadek </li>
+
+        </ul>
+      </div>
+      <div class="cleaner"></div>
+    </div>
+    <div class="content_box_bottom"></div>
+
+      <div class="section_w250 float_r">
+        <h3>Quisque blandit</h3>
+
+      </div>
+      <div class="cleaner"></div>
+    </div>
+    <div class="content_box_bottom"></div>
+  </div>
+  <!-- end of content -->
+  <div class="cleaner"></div>
+</div>
+<div id="footer_wrapper">
+  <div id="footer">
+    <ul class="footer_menu">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Templates</a></li>
+      <li><a href="#">Flash Files</a></li>
+      <li><a href="#">Gallery</a></li>
+      <li><a href="#">Members</a></li>
+      <li class="last_menu"><a href="#">Contact Us</a></li>
+    </ul>
+    Copyright © 2022<a href="#"> Dakhli Momen</a> | Dakhli Momen</div>
+</div>
+</body></html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>fc Barcelona</title>
+    <link rel="icon" href="images/fcb2.jpg" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="header_wrapper">
+      <div id="header">
+        <div id="site_title"> </div>
+      </div>
+      <!-- end of header --> </div>
+    <!-- end of menu_wrapper -->
+    <div id="menu_wrapper">
+      <div id="menu">
+        <ul>
+          <li><a href="acceil.html">Accueil</a></li>
+          <li><a href="propos.html">A propos du club</a></li>
+          <li><a href="" class="current">Gallery</a></li>
+          <li><a href="joueur.html">Les joueurs</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <!-- end of menu --> </div>
+    <div id="content_wrapper">
+      <!-- end of sidebar --><br />
+      <div class="image_fl"> </div>
+      <div> </div>
+    </div>
+    <div id="content500">
+      <div class="content_box33">
+        <h2> Gallery De Fc Barcelona: </h2>
+        <div class="gal">
+          <div> <img src="images/equipe.jpg" alt="" /><img src="images/equipe2.jpg"
+
+              alt="" /></div>
+          <div><br />
+          </div>
+          <div><img src="images/313009461_463347005677217_8348531900135892208_n.jpg" alt="" /><img src="images/pique.jpg"
+
+              alt="" /></div>
+          <div> </div>
+          <div><br />
+          </div>
+          <div><br />
+          </div>
+          <div> </div>
+          <div><br />
+          </div>
+          <div><br />
+          </div>
+          <div> <img src="images/302055454_812124756455531_474983970367380086_n.jpg"
+
+              alt="" /><img src="images/303999375_2020500318339260_2948206650930045845_n.jpg"
+
+              alt="" /></div>
+          <div><br />
+          </div>
+          <div><br />
+          </div>
+          <div> </div>
+          <div><br />
+          </div>
+          <div><br />
+          </div>
+          <div> <img src="images/309276912_3015050895452745_6500496198818910610_n.jpg"
+
+              alt="" /></div>
+          <div><br />
+          </div>
+        </div>
+        <div class="cleaner"></div>
+        <p></p>
+        <!-- end of content --> </div>
+    </div>
+  </body>
+</html>
